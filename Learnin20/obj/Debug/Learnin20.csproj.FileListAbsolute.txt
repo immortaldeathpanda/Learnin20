@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\bin\Debug\Learnin20.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\bin\Debug\Learnin20.exe
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\bin\Debug\Learnin20.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\obj\Debug\Learnin20.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\obj\Debug\Learnin20.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\obj\Debug\Learnin20.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\obj\Debug\Learnin20.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\obj\Debug\Learnin20.exe
+c:\users\admin\documents\visual studio 2015\Projects\Learnin20\Learnin20\obj\Debug\Learnin20.pdb
